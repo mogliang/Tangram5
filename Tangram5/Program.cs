@@ -398,7 +398,18 @@ namespace Tangram5
             {
                 for (int x = 0; x < Chip.MatrixSize; x++)
                 {
-                    Console.Write($"{Matrix[x, y]}\t");
+                    if (Matrix[x, y] != 0)
+                    {
+                        Console.BackgroundColor = ConsoleColor.White;
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.Write("00");
+                    }
+                    else
+                    {
+                        Console.BackgroundColor = ConsoleColor.DarkGray;
+                        Console.ForegroundColor = ConsoleColor.DarkGray;
+                        Console.Write("00");
+                    }
                 }
                 Console.WriteLine();
             }
