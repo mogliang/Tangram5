@@ -5,6 +5,12 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangram5.donet", "Tangram5.donet\Tangram5.donet.csproj", "{7D89F6C6-5BC5-450E-8721-32C2B7C1AC84}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EA8CEB24-2681-43DA-A923-389A80E1CED3}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		tangram5_puzzle.png = tangram5_puzzle.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
