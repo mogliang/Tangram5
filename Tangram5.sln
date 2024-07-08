@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26730.15
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tangram5", "Tangram5\Tangram5.csproj", "{D6AD7F52-5486-40E9-9495-35F5C09F3D57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tangram5.donet", "Tangram5.donet\Tangram5.donet.csproj", "{7D89F6C6-5BC5-450E-8721-32C2B7C1AC84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D6AD7F52-5486-40E9-9495-35F5C09F3D57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D6AD7F52-5486-40E9-9495-35F5C09F3D57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D6AD7F52-5486-40E9-9495-35F5C09F3D57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D6AD7F52-5486-40E9-9495-35F5C09F3D57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D89F6C6-5BC5-450E-8721-32C2B7C1AC84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D89F6C6-5BC5-450E-8721-32C2B7C1AC84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D89F6C6-5BC5-450E-8721-32C2B7C1AC84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D89F6C6-5BC5-450E-8721-32C2B7C1AC84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
