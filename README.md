@@ -7,5 +7,7 @@
 安装 dotnet8 SDK
 
 ## 运行方法
+```
 cd Tangram5.donet
 dotnet run
+```
